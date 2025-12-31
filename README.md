@@ -1,5 +1,5 @@
 # EID_optimization
-This repository contains data and code for reproducing the analyses in **Network topology outweighs emergence probability in surveillance sentinel selecon**
+This repository contains data and code for reproducing the analyses in **Network topology outweighs emergence probability in surveillance sentinel selection**
 ## Data
 This folder contains **four empirical network datasets**, each stored in `.gml` format.  
 These networks are used as real-world test cases for evaluating surveillance strategies.
