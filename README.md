@@ -1,5 +1,5 @@
 # EID_optimization
-This repository contains data and code for reproducing the analyses in **Network topology outweighs emergence probability in surveillance sentinel selection**
+This repository contains data and code for reproducing the analyses in **Network topology outweighs emergence probability in surveillance sentinel selection**. To facilitate the application of our proposed method, we have also developed an online platform (<https://lunawang.shinyapps.io/sentinel_nodes_selection/>). After uploading the network structure and node-specific emergence probability and specify the desired number of sentinel nodes, the platform can provide the optimal sentinel node set selected by RFSM, as well as visualizes the selected nodes within the network to aid interpretation.
 ## Data
 This folder contains **four empirical network datasets**, each stored in `.gml` format.  
 These networks are used as real-world test cases for evaluating surveillance strategies.
